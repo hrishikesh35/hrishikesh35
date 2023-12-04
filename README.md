@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Hrishikesh Nalawade😊🌫️</h1>
-<h3 align="center">Backend developer with almost perfect Python skill</h3>
+<h3 align="center">Backend developer with almost perfect programmaing skill, still learning new things Every Single Day</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hrishikesh35&label=Profile%20views&color=0e75b6&style=flat" alt="hrishikesh35" /> </p>
 
